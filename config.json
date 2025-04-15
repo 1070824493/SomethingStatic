@@ -1,0 +1,47 @@
+{
+    "version": "1.0.0",
+    "categories": [
+        {
+            "name": "音视频",
+            "plugins": [
+                {
+                    "icon": "https://img.picgo.net/2025/04/15/ce861e466c5b204daa27aa9716a04ff15556bc0d1fc1335b.png",
+                    "color": "#2196F3",
+                    "platform": [
+                        "mobile",
+                        "desktop"
+                    ],
+                    "localization": {
+                        "en": {
+                            "title": "Video Download"
+                        },
+                        "zh": {
+                            "title": "视频下载"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "name": "开发工具",
+            "plugins": [
+                {
+                    "icon": "https://img.picgo.net/2025/04/15/8_3-10dfb15b751cfdafb.png",
+                    "color": "#FF0000",
+                    "platform": [
+                        "mobile",
+                        "desktop"
+                    ],
+                    "localization": {
+                        "en": {
+                            "title": "Base64 Encoder/Decoder"
+                        },
+                        "zh": {
+                            "title": "base64编解码"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
