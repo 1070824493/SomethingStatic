@@ -27,7 +27,7 @@
             "plugins": [
                 {
                     "icon": "https://img.picgo.net/2025/04/15/8_3-10dfb15b751cfdafb.png",
-                    "color": "#FF0000",
+                    "color": "#2196F3",
                     "platform": [
                         "mobile",
                         "desktop"
