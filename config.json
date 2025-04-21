@@ -7,6 +7,7 @@
                 {
                     "icon": "https://img.picgo.net/2025/04/15/ce861e466c5b204daa27aa9716a04ff15556bc0d1fc1335b.png",
                     "color": "#2196F3",
+                    "router": "/plugin/video-download",
                     "platform": [
                         "mobile",
                         "desktop"
@@ -23,6 +24,7 @@
                 {
                     "icon": "https://img.picgo.net/2025/04/20/4d27d40792042c132303419f4da95310a7d8e7d6d5ded458.png",
                     "color": "#2196F3",
+                    "router": "/plugin/video-converter",
                     "platform": [
                         "desktop"
                     ],
@@ -43,6 +45,7 @@
                 {
                     "icon": "https://img.picgo.net/2025/04/15/8_3-10dfb15b751cfdafb.png",
                     "color": "#2196F3",
+                    "router": "/plugin/base64-codable",
                     "platform": [
                         "mobile",
                         "desktop"
